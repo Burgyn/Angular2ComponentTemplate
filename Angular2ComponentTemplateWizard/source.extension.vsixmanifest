@@ -2,7 +2,7 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
     <Identity Id="Angular2ComponentTemplateWizard.Milan Martiniak.cf250878-e78d-4b5a-83dc-59827a2afd12" Version="1.0" Language="en-US" Publisher="Milan Martiniak" />
-    <DisplayName>Angular2ComponentTemplateWizard</DisplayName>
+    <DisplayName>Angular2ComponentTemplate</DisplayName>
     <Description xml:space="preserve">Template for creating Angular2 Component</Description>
     <Icon>Image.png</Icon>
     <Tags>Angular 2, Component, TypeScript, html, css</Tags>

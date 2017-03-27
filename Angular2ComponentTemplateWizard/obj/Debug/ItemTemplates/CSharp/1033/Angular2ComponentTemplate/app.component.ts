@@ -11,4 +11,4 @@ export class $componentName$Component {
 }
 
 // This code copy to app.module.ts
-import { $componentName$Component$ } from './app/$componentFileName$.component';
+import { $componentName$Component } from './app/$componentFileName$.component';
