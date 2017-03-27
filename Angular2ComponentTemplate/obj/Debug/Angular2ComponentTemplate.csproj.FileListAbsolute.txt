@@ -1,0 +1,5 @@
+D:\Projects\GitHubRepos\Angular2ComponentTemplate\Angular2ComponentTemplate\bin\Debug\ItemTemplates\CSharp\1033\Angular2ComponentTemplate.zip
+D:\Projects\GitHubRepos\Angular2ComponentTemplate\Angular2ComponentTemplate\obj\Debug\Angular2ComponentTemplate.csprojResolveAssemblyReference.cache
+D:\Projects\GitHubRepos\Angular2ComponentTemplate\Angular2ComponentTemplate\obj\Debug\CSharp\1033\Angular2ComponentTemplate.zip
+D:\Projects\GitHubRepos\Angular2ComponentTemplate\Angular2ComponentTemplate\obj\Debug\Angular2ComponentTemplate.dll
+D:\Projects\GitHubRepos\Angular2ComponentTemplate\Angular2ComponentTemplate\obj\Debug\Angular2ComponentTemplate.pdb

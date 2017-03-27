@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VSTemplate Version="3.0.0" Type="Item" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" xmlns:sdk="http://schemas.microsoft.com/developer/vstemplate-sdkextension/2010">
+  <TemplateData>
+    <Name>Angular 2 Component</Name>
+    <Description>Template for creating Angular 2 Component</Description>
+    <Icon>Image.png</Icon>
+    <TemplateID>b52f7c56-2f7b-4ade-a278-c6b53a150aa9</TemplateID>
+    <ProjectType>CSharp</ProjectType>
+    <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
+    <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+    <DefaultName>app</DefaultName>
+  </TemplateData>
+  <TemplateContent>
+    <References>
+      <Reference>
+        <Assembly>System</Assembly>
+      </Reference>
+    </References>
+    <ProjectItem ReplaceParameters="true" TargetFileName="$componentFileName$.component.ts">app.component.ts</ProjectItem>
+    <ProjectItem ReplaceParameters="true" TargetFileName="$componentFileName$.component.html">app.component.html</ProjectItem>
+    <ProjectItem ReplaceParameters="true" TargetFileName="$componentFileName$.component.css">app.component.css</ProjectItem>
+  </TemplateContent>
+
+  <WizardExtension>
+    <Assembly>Angular2ComponentTemplateWizard, Version=1.0.0.0, Culture=Neutral, PublicKeyToken=4bd239f281bb846d</Assembly>
+    <FullClassName>Angular2ComponentTemplateWizard.ComponentWizard</FullClassName>
+  </WizardExtension>
+</VSTemplate>
