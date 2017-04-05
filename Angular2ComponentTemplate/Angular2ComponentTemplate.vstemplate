@@ -5,7 +5,7 @@
     <Description>Template for creating Angular 2 Component</Description>
     <Icon>Image.png</Icon>
     <TemplateID>b52f7c56-2f7b-4ade-a278-c6b53a150aa9</TemplateID>
-    <ProjectType>CSharp</ProjectType>
+    <ProjectType>Web</ProjectType>
     <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
     <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
     <DefaultName>app</DefaultName>
