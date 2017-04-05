@@ -1,0 +1,22 @@
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="Angular2ComponentTemplateWizard.Milan Martiniak.cf250878-e78d-4b5a-83dc-59827a2afd12" Version="1.0" Language="en-US" Publisher="Milan Martiniak" />
+    <DisplayName>Angular2ComponentTemplate</DisplayName>
+    <Description xml:space="preserve">Template for creating Angular2 Component</Description>
+    <Icon>Image.png</Icon>
+    <Tags>Angular 2, Component, TypeScript, html, css</Tags>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[15.0]" />
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" Version="[4.5,)" />
+  </Dependencies>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.ItemTemplate" Path="ItemTemplates" />
+    <Asset Type="Microsoft.VisualStudio.Assembly" Path="Angular2ComponentTemplateWizard.dll" AssemblyName="Angular2ComponentTemplateWizard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=4bd239f281bb846d" />
+  </Assets>
+  <Prerequisites>
+    <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[15.0,16.0)" DisplayName="Visual Studio core editor" />
+  </Prerequisites>
+</PackageManifest>
